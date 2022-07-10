@@ -11,5 +11,4 @@
 
 ### 관련 서적
 * Effective DevOps with AWS - Second Edition [[Packt]](https://www.packtpub.com/virtualization-and-cloud/effective-devops-aws-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789539974) [[Amazon]](https://www.amazon.com/dp/1789539978)
-
 * DevOps with Kubernetes - Second Edition [[Packt]](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789533996) [[Amazon]](https://www.amazon.com/dp/1789533996)
